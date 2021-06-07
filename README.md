@@ -73,16 +73,18 @@ Resource consists of Devices/Sites and Templates.
 Resource Groups are groupings of resources based on continents/countries/regions/cities/areas etc.
 <br>
 
-![image](https://github.com/prashanth-raghavendra/sdwan-api/blob/devent-webinar-june2021/Feature_Overview_1.png)
+![image](https://github.com/CiscoDevNet/sdwan_rbac_res_group/blob/main/Feature_Overview_1.png)
 
-![image](https://github.com/prashanth-raghavendra/sdwan-api/blob/devent-webinar-june2021/Feature_Overview_2.png)
+![image](https://github.com/CiscoDevNet/sdwan_rbac_res_group/blob/main/Feature_Overview_2.png)
+
 
 <br>
 
 ## Demo Lab Topology
 <br>
 
-![image](https://github.com/prashanth-raghavendra/sdwan-api/blob/devent-webinar-june2021/Demo_Lab_Topology.png)
+![image](https://github.com/CiscoDevNet/sdwan_rbac_res_group/blob/main/Demo_Lab_Topology.png)
+
 
 <br>
 
